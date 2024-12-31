@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to RoaaBank Cards related QA APIs "
+  contactDetails:
+    name: "Mohammed - QA Lead"
+    email: "ahmed@gmail.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (555) 734-8371

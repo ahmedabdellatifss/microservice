@@ -1,0 +1,4 @@
+package com.roaa.cards.entity;
+
+public class Cards {
+}
