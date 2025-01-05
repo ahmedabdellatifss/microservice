@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to RoaaBank accounts related local APIs "
+  contactDetails:
+    name: "Ahmed Mohammed - Developer"
+    email: "ahmedmohmmed1992@gmail.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
