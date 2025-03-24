@@ -1,0 +1,27 @@
+dependencies:
+- name: roaabank-common
+  repository: file://../../roaabank-common
+  version: 0.1.0
+- name: configserver
+  repository: file://../../roaabank-services/configserver
+  version: 0.1.0
+- name: eurekaserver
+  repository: file://../../roaabank-services/eurekaserver
+  version: 0.1.0
+- name: accounts
+  repository: file://../../roaabank-services/accounts
+  version: 0.1.0
+- name: cards
+  repository: file://../../roaabank-services/cards
+  version: 0.1.0
+- name: loans
+  repository: file://../../roaabank-services/loans
+  version: 0.1.0
+- name: gatewayserver
+  repository: file://../../roaabank-services/gatewayserver
+  version: 0.1.0
+- name: message
+  repository: file://../../roaabank-services/message
+  version: 0.1.0
+digest: sha256:dad4628f3c1f9de5e7429374d01517fd24b10855b1bed9facfbfa9ec9b0d4ea6
+generated: "2025-03-21T16:40:58.575087513+02:00"
