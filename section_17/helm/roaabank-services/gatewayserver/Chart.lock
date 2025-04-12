@@ -1,0 +1,6 @@
+dependencies:
+- name: roaabank-common
+  repository: file://../../roaabank-common
+  version: 0.1.0
+digest: sha256:670a53b469d5d7c6b4723777e91159a4d878f6edab4e18ad8738432241e18a0e
+generated: "2025-03-21T01:43:02.981565412+02:00"
